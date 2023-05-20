@@ -244,3 +244,6 @@ cadastroForm.addEventListener('submit', function(event) {
 });
 
 e esse do  o scripyt do cadastro
+
+Gabriel Lima Soares Oliveira 2B
+Pedro Wesley  2B
