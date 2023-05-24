@@ -189,6 +189,12 @@ body{
     color: white;
     font-size: 15px;
 }
+a{
+    top: 0;
+    position: absolute;
+    color: black;
+    right: 97%;
+}
 
 esse é seu style 
 
